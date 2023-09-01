@@ -1,0 +1,6 @@
+C:\Users\payal.limbola\source\repos\StockMarket\StockModels\bin\Debug\StockModels.dll
+C:\Users\payal.limbola\source\repos\StockMarket\StockModels\bin\Debug\StockModels.pdb
+C:\Users\payal.limbola\source\repos\StockMarket\StockModels\obj\Debug\StockModels.csproj.AssemblyReference.cache
+C:\Users\payal.limbola\source\repos\StockMarket\StockModels\obj\Debug\StockModels.csproj.CoreCompileInputs.cache
+C:\Users\payal.limbola\source\repos\StockMarket\StockModels\obj\Debug\StockModels.dll
+C:\Users\payal.limbola\source\repos\StockMarket\StockModels\obj\Debug\StockModels.pdb

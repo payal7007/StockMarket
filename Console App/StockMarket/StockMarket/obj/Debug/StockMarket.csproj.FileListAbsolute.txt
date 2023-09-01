@@ -1,0 +1,12 @@
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.AssemblyReference.cache
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\bin\Debug\StockDataAccess.dll
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\bin\Debug\StockModels.dll
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\bin\Debug\StockDataAccess.pdb
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\bin\Debug\StockModels.pdb
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CopyComplete
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\payal.limbola\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
