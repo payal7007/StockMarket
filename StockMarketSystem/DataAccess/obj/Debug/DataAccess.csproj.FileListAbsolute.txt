@@ -1,0 +1,9 @@
+F:\Source\repo\StockMarketSystem\DataAccess\bin\Debug\DataAccess.dll
+F:\Source\repo\StockMarketSystem\DataAccess\bin\Debug\DataAccess.pdb
+F:\Source\repo\StockMarketSystem\DataAccess\bin\Debug\StockMarket.Models.dll
+F:\Source\repo\StockMarketSystem\DataAccess\bin\Debug\StockMarket.Models.pdb
+F:\Source\repo\StockMarketSystem\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+F:\Source\repo\StockMarketSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Source\repo\StockMarketSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\Source\repo\StockMarketSystem\DataAccess\obj\Debug\DataAccess.dll
+F:\Source\repo\StockMarketSystem\DataAccess\obj\Debug\DataAccess.pdb

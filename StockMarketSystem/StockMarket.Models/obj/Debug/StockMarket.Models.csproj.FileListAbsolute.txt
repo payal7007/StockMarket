@@ -1,0 +1,6 @@
+F:\Source\repo\StockMarketSystem\StockMarket.Models\bin\Debug\StockMarket.Models.dll
+F:\Source\repo\StockMarketSystem\StockMarket.Models\bin\Debug\StockMarket.Models.pdb
+F:\Source\repo\StockMarketSystem\StockMarket.Models\obj\Debug\StockMarket.Models.csproj.AssemblyReference.cache
+F:\Source\repo\StockMarketSystem\StockMarket.Models\obj\Debug\StockMarket.Models.csproj.CoreCompileInputs.cache
+F:\Source\repo\StockMarketSystem\StockMarket.Models\obj\Debug\StockMarket.Models.dll
+F:\Source\repo\StockMarketSystem\StockMarket.Models\obj\Debug\StockMarket.Models.pdb
